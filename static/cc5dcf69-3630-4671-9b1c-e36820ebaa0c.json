@@ -1,0 +1,308 @@
+{
+    "version": "5.2",
+    "groups": [
+        {
+            "id": 1,
+            "title": "Search sakases",
+            "iconColor": "hsla(360, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "main-squares",
+            "tabs": [
+                {
+                    "url": "https://freelance.habr.com/users/sign_in",
+                    "title": "https://freelance.habr.com/users/sign_in",
+                    "id": 3
+                },
+                {
+                    "url": "https://jsfiddle.net/rfnj35xd/1/",
+                    "title": "Edit fiddle - JSFiddle - Code Playground",
+                    "id": 4
+                },
+                {
+                    "url": "https://lzt.market/epicgames/",
+                    "title": "Купить аккаунт Epic Games - Lolzteam Market",
+                    "id": 5
+                },
+                {
+                    "url": "https://www.weblancer.net/freelance/",
+                    "title": "Фриланс: Выполнение любых заказов. Удаленная работа с фрилансерами в Украине, России и др. странах СНГ - Weblancer",
+                    "id": 6
+                },
+                {
+                    "url": "https://chita.hh.ru/?hhtmFrom=applicant_gallery",
+                    "title": "Работа в Чите, поиск персонала и публикация вакансий - chita.hh.ru",
+                    "id": 7
+                },
+                {
+                    "url": "https://chita.hh.ru/vacancy/96041260?from=applicant_recommended&hhtmFrom=main",
+                    "title": "Вакансия Администратор баз данных в Чите, работа в компании ГУЗ Городская Клиническая Больница №2",
+                    "id": 8
+                },
+                {
+                    "url": "https://mail.yandex.ru/?uid=1965513074#tabs/relevant",
+                    "title": "Входящие — Яндекс Почта",
+                    "id": 9
+                },
+                {
+                    "url": "https://finder.work/vacancies",
+                    "title": "Работа и свежие вакансии — Finder",
+                    "id": 10
+                },
+                {
+                    "url": "https://finder.work/vacancies",
+                    "title": "Работа и свежие вакансии — Finder",
+                    "id": 11
+                },
+                {
+                    "url": "https://github.com/DmitrsDons",
+                    "title": "DmitrsDons",
+                    "id": 12
+                },
+                {
+                    "url": "https://talkai.info/chat/",
+                    "title": "TalkAI - Talk With ChatGPT",
+                    "id": 13
+                },
+                {
+                    "url": "https://freelance.habr.com/tasks",
+                    "title": "Заказы — Хабр Фриланс",
+                    "id": 14
+                }
+            ],
+            "isArchive": false,
+            "discardTabsAfterHide": false,
+            "discardExcludeAudioTabs": false,
+            "prependTitleToWindow": false,
+            "exportToBookmarksWhenAutoBackup": true,
+            "leaveBookmarksOfClosedTabs": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToGroupIfNoneCatchTabRules": null,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "showOnlyActiveTabAfterMovingItIntoThisGroup": false,
+            "showNotificationAfterMovingTabIntoThisGroup": true,
+            "bookmarkId": null
+        },
+        {
+            "id": 2,
+            "title": "Workspace",
+            "iconColor": "hsla(170, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "main-squares",
+            "tabs": [
+                {
+                    "url": "https://github.com/Xinyuan-LilyGO/T-Display-S3/tree/main",
+                    "title": "Xinyuan-LilyGO/T-Display-S3",
+                    "id": 15
+                },
+                {
+                    "url": "https://github.com/Xinyuan-LilyGO/T-Display-S3/tree/main",
+                    "title": "Xinyuan-LilyGO/T-Display-S3",
+                    "id": 16
+                },
+                {
+                    "url": "https://wiki.luckfox.com/Luckfox-Pico/Luckfox-Pico-LVGL/",
+                    "title": "LVGL User Guide | LUCKFOX WIKI",
+                    "id": 17
+                },
+                {
+                    "url": "https://lvgl.io/",
+                    "title": "LVGL - Light and Versatile Embedded Graphics Library",
+                    "id": 18
+                },
+                {
+                    "url": "https://habr.com/ru/articles/510626/",
+                    "title": "Интеграция в проект LVGL графической библиотеки для микроконтроллеров / Хабр",
+                    "id": 19
+                },
+                {
+                    "url": "https://lvgl.io/boards",
+                    "title": "Board Certification Program | From idea to product",
+                    "id": 20
+                },
+                {
+                    "url": "https://lvgl.io/get-started",
+                    "title": "About - Intorduction and roadmap | LVGL",
+                    "id": 21
+                }
+            ],
+            "isArchive": false,
+            "discardTabsAfterHide": false,
+            "discardExcludeAudioTabs": false,
+            "prependTitleToWindow": false,
+            "exportToBookmarksWhenAutoBackup": true,
+            "leaveBookmarksOfClosedTabs": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToGroupIfNoneCatchTabRules": null,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "showOnlyActiveTabAfterMovingItIntoThisGroup": false,
+            "showNotificationAfterMovingTabIntoThisGroup": true,
+            "bookmarkId": null
+        },
+        {
+            "id": 3,
+            "title": "Kotlin",
+            "iconColor": "hsla(140, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "main-squares",
+            "tabs": [
+                {
+                    "url": "https://ru.vuejs.org/sponsor/",
+                    "title": "Станьте спонсором Vue.js | Vue.js",
+                    "id": 2
+                },
+                {
+                    "url": "https://sequelize.org/docs/v6/getting-started/",
+                    "title": "Getting Started | Sequelize",
+                    "id": 22
+                },
+                {
+                    "url": "https://sequelize.org/docs/v6/core-concepts/model-querying-basics/",
+                    "title": "Model Querying - Basics | Sequelize",
+                    "id": 23
+                },
+                {
+                    "url": "https://sequelize.org/api/v6/class/src/model.js~model#static-method-create",
+                    "title": "Model | Sequelize",
+                    "id": 24
+                },
+                {
+                    "url": "https://bulma.io/documentation/components/card/",
+                    "title": "Card | Bulma: Free, open source, and modern CSS framework based on Flexbox",
+                    "id": 25
+                },
+                {
+                    "url": "https://fontawesome.com/v5/icons/utensils?f=classic&s=light",
+                    "title": "Find the Perfect Icon for Your Project in Font Awesome 5 | Font Awesome",
+                    "id": 27
+                },
+                {
+                    "url": "https://talkai.info/chat/",
+                    "title": "Server Not Found",
+                    "id": 28
+                }
+            ],
+            "isArchive": false,
+            "discardTabsAfterHide": false,
+            "discardExcludeAudioTabs": false,
+            "prependTitleToWindow": false,
+            "exportToBookmarksWhenAutoBackup": true,
+            "leaveBookmarksOfClosedTabs": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToGroupIfNoneCatchTabRules": null,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "showOnlyActiveTabAfterMovingItIntoThisGroup": false,
+            "showNotificationAfterMovingTabIntoThisGroup": true,
+            "bookmarkId": null
+        },
+        {
+            "id": 4,
+            "title": "Group 4",
+            "iconColor": "hsla(40, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "main-squares",
+            "tabs": [
+                {
+                    "url": "about:newtab",
+                    "title": "New Tab",
+                    "id": 26
+                }
+            ],
+            "isArchive": false,
+            "discardTabsAfterHide": false,
+            "discardExcludeAudioTabs": false,
+            "prependTitleToWindow": false,
+            "exportToBookmarksWhenAutoBackup": true,
+            "leaveBookmarksOfClosedTabs": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToGroupIfNoneCatchTabRules": null,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "showOnlyActiveTabAfterMovingItIntoThisGroup": false,
+            "showNotificationAfterMovingTabIntoThisGroup": true,
+            "bookmarkId": null
+        }
+    ],
+    "lastCreatedGroupPosition": 4,
+    "defaultGroupProps": {},
+    "closePopupAfterChangeGroup": true,
+    "closePopupAfterSelectTab": false,
+    "openGroupAfterChange": false,
+    "alwaysAskNewGroupName": true,
+    "createNewGroupWhenOpenNewWindow": false,
+    "openManageGroupsInTab": true,
+    "showConfirmDialogBeforeGroupArchiving": true,
+    "showConfirmDialogBeforeGroupDelete": true,
+    "showNotificationAfterGroupDelete": true,
+    "showContextMenuOnTabs": true,
+    "showContextMenuOnLinks": true,
+    "defaultBookmarksParent": "toolbar_____",
+    "showExtendGroupsPopupWithActiveTabs": false,
+    "showTabsWithThumbnailsInManageGroups": false,
+    "fullPopupWidth": false,
+    "temporaryContainerTitle": "⌚Temporary Container",
+    "contextMenuTab": [
+        "open-in-new-window",
+        "reload",
+        "discard",
+        "remove",
+        "update-thumbnail",
+        "set-group-icon",
+        "move-tab-to-group"
+    ],
+    "contextMenuGroup": [
+        "open-in-new-window",
+        "sort-asc",
+        "sort-desc",
+        "discard",
+        "discard-other",
+        "export-to-bookmarks",
+        "unload",
+        "archive",
+        "rename",
+        "reload-all-tabs"
+    ],
+    "autoBackupEnable": true,
+    "autoBackupLastBackupTimeStamp": 1717167168,
+    "autoBackupIntervalKey": "days",
+    "autoBackupIntervalValue": 1,
+    "autoBackupIncludeTabThumbnails": true,
+    "autoBackupIncludeTabFavIcons": true,
+    "autoBackupFolderName": "STG-backups-FF-124.0.2",
+    "autoBackupByDayIndex": true,
+    "theme": "auto",
+    "hotkeys": [
+        {
+            "value": "Ctrl+Backquote",
+            "action": "load-next-group",
+            "groupId": 0
+        },
+        {
+            "value": "Ctrl+Shift+Backquote",
+            "action": "load-prev-group",
+            "groupId": 0
+        }
+    ]
+}
