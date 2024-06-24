@@ -55,11 +55,12 @@ app.register(require('@fastify/cors'), (instance) => {
 
 
 function startServerApi(port) {
-  app.listen({ port }, (err) => {
+app.listen(port, '0.0.0.0', (err, address) => {
     if (err) {
       app.log.error(err)
       process.exit(1)
     }
+    console.log(`Server listening on ${address}`);
   })
 }
 
